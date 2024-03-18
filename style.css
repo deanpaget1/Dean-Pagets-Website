@@ -5,8 +5,10 @@
   color: white;
 }
 
-h1{
-
+.header{
+  position:fixed;
+  background-color: white;
+  z-index: 1;
 }
 @keyframes gradient-animation {
   0% {
